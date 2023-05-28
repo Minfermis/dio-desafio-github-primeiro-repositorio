@@ -1,2 +1,6 @@
 # Repositório do Desafio de Projeto sobre GIT/GITHUB da DIO
-Desafio de projeto sobre git/github
+Repositório criado para o Desafio do projeto. 
+
+## Links úteis (Manual basico da linguagem usada para o texto no github)
+[Seintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
