@@ -1,0 +1,37 @@
+Aqui é anotação da aula de Git/Github
+
+	1-Para colocar a pasta do repositório do Github no
+computador vc precisa abrir a pasta escolhida para enviar o
+repositorio e clicar com o botão direito no "Git Bash Here",
+e fazer os seguintes comandos 
+
+$ git clone (Em seguida vc cola o link copiado do git hub "obs:
+vc consegue colocar clicando com o botão direito e clicando em 
+pasta" e depois apertar o enter. Assim o repositório vai ser
+clonado para seu computador.)
+
+	2-E caso vc faça alguma alteração na pasta no seu computador
+e queira atualizar no git hub. Voce deve fazer um comando especifico
+para isso. Vá para o "Git Bash Here" dentro da pasto do repositório
+e faça os seguintes comandos: 
+
+	3-Comando status para ver se precisa de atualização:
+$ git status (aperte enter: serve para ver como está os status
+da pasta e ver se é necessário atualiza-la)
+
+	4-Caso precise atualizar:
+$ git add . (enter: Assim vai ser adicionados todas as atualizaçãoes
+feita no seu computador para o git)
+
+	5-E depois para ver se tudo ocorreu certo como esperado
+você pode fazer o comando status de novo. 
+
+	6- Agora para fazer do Git para a nuvem GitHub é necessário 
+fazer o seguinte comando, vamos fazer em duas partes. Primeiro dando
+um título para atualização:
+
+$ git commit -m "Aqui vc descreve a inclusão" (enter)
+	
+	7- Depois vamos fazer o upload do arquivo para o github:
+
+$ git push origin main (enter)
